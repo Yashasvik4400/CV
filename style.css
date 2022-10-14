@@ -1,0 +1,18 @@
+body{
+  background-color: #7D6E83;
+}
+
+hr {
+  background-color: #7D6E83;
+  border-style: dotted none none;
+  border-color: pink;
+  border-width: 10px;
+  width: 8%;
+  height: 0;
+}
+h1{
+  color: purple;
+}
+h3{
+  color: purple;
+}
